@@ -1,0 +1,5 @@
+<launch>
+    <node pkg="laser_values/src" type="scan.cpp" name="scan_values" output="screen">
+
+    </node>
+</launch>
