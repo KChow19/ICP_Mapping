@@ -1,2 +1,2 @@
-# Lidar Mapping
-Using a RPLidar serialize scans ICP Mapping
+# LIDAR Mapping
+Serializes LIDAR scans from a RPLidar to use in ICP Mapping
